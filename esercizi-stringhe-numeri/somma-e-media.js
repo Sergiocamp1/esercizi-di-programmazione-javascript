@@ -27,4 +27,3 @@ console.log(somma);
 var media = somma/5;
 console.log(media);
 
-//

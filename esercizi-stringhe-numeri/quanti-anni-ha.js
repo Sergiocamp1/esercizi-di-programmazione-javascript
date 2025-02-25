@@ -11,3 +11,20 @@
 
   http://www.imparareaprogrammare.it
 */
+
+// Definiamo anno di nascita
+var yearOfBirth = 1989;
+
+// Definiamo anno corrente
+
+var currentYear = 2025;
+
+// Definiamo variabile con operazione per rivelare l'età
+
+var age = currentYear - yearOfBirth;
+console.log(`eta =  ${age}`);
+
+//Definiamo variabile con operazione per rivelare quanti anni mancano per arrivare a 100
+
+var remainingYears = (100 - age);
+console.log(`anni mancanti = ${remainingYears}`);
